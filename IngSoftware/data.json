@@ -1,0 +1,166 @@
+[
+    {
+        "id": "juego-01",
+        "titulo": "God of War: Ragnarök",
+        "imagen": "./img/accion/01.jpg",
+        "categoria": {
+            "nombre": "Juegos de Acción",
+            "id": "juegos-accion"
+        },
+        "precio": 11300
+    },
+    {
+        "id": "juego-02",
+        "titulo": "Sekiro: Shadows Die Twice",
+        "imagen": "./img/accion/02.jpg",
+        "categoria": {
+            "nombre": "Juegos de Acción",
+            "id": "juegos-accion"
+        },
+        "precio": 1300
+    },
+    {
+        "id": "juego-03",
+        "titulo": "The Last of Us Part II",
+        "imagen": "./img/accion/03.jpg",
+        "categoria": {
+           "nombre": "Juegos de Acción",
+            "id": "juegos-accion"
+        },
+        "precio": 6500
+    },
+    {
+        "id": "juego-04",
+        "titulo": "Elden Ring",
+        "imagen": "./img/accion/04.jpg",
+        "categoria": {
+            "nombre": "Juegos de Acción",
+            "id": "juegos-accion"
+        },
+        "precio": 6500
+    },
+    {
+        "id": "juego-05",
+        "titulo": "Horizon Forbidden West",
+        "imagen": "./img/accion/05.jpg",
+        "categoria": {
+            "nombre": "Juegos de Acción",
+            "id": "juegos-accion"
+        },
+        "precio": 11300
+    },
+
+    
+    {
+        "id": "juego-06",
+        "titulo": "Visage",
+        "imagen": "./img/terror/01.jpg",
+        "categoria": {
+            "nombre": "Juegos de Terror",
+            "id": "juegos-terror"
+        },
+        "precio": 390
+    },
+    {
+        "id": "juego-07",
+        "titulo": "Little Nightmares",
+        "imagen": "./img/terror/02.jpg",
+        "categoria": {
+            "nombre": "Juegos de Terror",
+            "id": "juegos-terror"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "juego-08",
+        "titulo": "Little Nightmares 2",
+        "imagen": "./img/terror/03.jpg",
+        "categoria": {
+            "nombre": "Juegos de Terror",
+            "id": "juegos-terror"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "juego-09",
+        "titulo": "Dead Space",
+        "imagen": "./img/terror/04.jpg",
+        "categoria": {
+            "nombre": "Juegos de Terror",
+            "id": "juegos-terror"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "juego-10",
+        "titulo": "Resident Evil 2 Deluxe Edition",
+        "imagen": "./img/terror/05.jpg",
+        "categoria": {
+            "nombre": "Juegos de Terror",
+            "id": "juegos-terror"
+        },
+        "precio": 4100
+    },
+
+    
+    {
+        "id": "juego-11",
+        "titulo": "Microsoft Flight Simulator",
+        "imagen": "./img/simulacion/01.jpg",
+        "categoria": {
+            "nombre": "Juegos de Simulación",
+            "id": "juegos-simulacion"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "juego-12",
+        "titulo": "Planet Coaster",
+        "imagen": "./img/simulacion/02.jpg",
+        "categoria": {
+            "nombre": "Juegos de Simulación",
+            "id": "juegos-simulacion"
+        },
+        "precio": 690
+    },
+    {
+        "id": "juego-13",
+        "titulo": "Cities: Skylines",
+        "imagen": "./img/simulacion/03.jpg",
+        "categoria": {
+            "nombre": "Juegos de Simulación",
+            "id": "juegos-simulacion"
+        },
+        "precio": 430
+    },
+    {
+        "id": "juego-14",
+        "titulo": "Star Wars: Squadrons",
+        "imagen": "./img/simulacion/04.jpg",
+        "categoria": {
+            "nombre": "Juegos de Simulación",
+            "id": "juegos-simulacion"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "juego-15",
+        "titulo": "Hunting Simulator 2",
+        "imagen": "./img/simulacion/05.jpg",
+        "categoria": {
+            "nombre": "Juegos de Simulación",
+            "id": "juegos-simulacion"
+        },
+        "precio": 700
+    },
+    {
+        "id": "juego-16",
+        "titulo": "Forza Horizon 5",
+        "imagen": "./img/simulacion/06.jpg",
+        "categoria": {
+            "nombre": "Juegos de Simulación",
+            "id": "juegos-simulacion"
+        },
+        "precio": 6000
+    }
+]
